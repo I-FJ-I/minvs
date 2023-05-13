@@ -1,3 +1,6 @@
+## [0.5.2]
+- Images in the README were not showing correctly
+
 ## [0.5.0]
 - Light mode has been added
 - And some other minimal color changes to de main theme
