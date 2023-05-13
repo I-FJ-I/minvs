@@ -11,6 +11,10 @@
   "categories": [
     "Themes"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/I-FJ-I/minvs"
+  },
   "keywords": [
     "minvs",
     "C theme",
