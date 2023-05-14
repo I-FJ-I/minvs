@@ -1,3 +1,6 @@
+## [0.5.3]
+- Fix incorrect colors in markdown files in light mode
+
 ## [0.5.2]
 - Images in the README were not showing correctly
 
