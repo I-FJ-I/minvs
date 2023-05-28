@@ -1,3 +1,6 @@
+## [0.5.4]
+- Added some color changes for html files
+
 ## [0.5.3]
 - Fix incorrect colors in markdown files in light mode
 
