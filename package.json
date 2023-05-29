@@ -3,7 +3,7 @@
   "displayName": "minvs",
   "icon": "images/logo.png",
   "description": "A minimalist vscode theme",
-  "version": "0.5.3",
+  "version": "0.5.4",
   "publisher": "FJ",
   "license": "MIT",
   "engines": {
