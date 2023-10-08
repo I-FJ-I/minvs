@@ -1,3 +1,6 @@
+## [0.5.5]
+- Fixed some colors in light mode
+
 ## [0.5.4]
 - Added some color changes for html files
 
